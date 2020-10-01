@@ -20,6 +20,9 @@
           "docker"
         ],
         "name": "core",
+        "password_hash": [
+          "$1$1KchQUtq$6E6sLaL0/SI76QjRXDT/m0"
+        ],
         "sshAuthorizedKeys": [
           "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC9BBXT0aFP9FIIp1OjQMfWWziCWtrSNs//rLAYStBPNdMZM1rGwlkmHxJko9wVW738fgdLprzPaLaXp9aAFuTET2vI4LkO94qBGEEUpsYd65YMBAdXPQ7xKmP2RQbq6vGIPsXelVRDfAbKLl5tpveD9YFkLtCrkXl4H6zWGr6vAkGzMVSjrBxfT1BOyMvlEdjS6x7sUH7D9dbqHjVIJc+iFLuUse//DVO00HU5I4TbCVYhb0MZfkbreObXvfxBIH01Tar/RNzHEZgbjJfEpgua/F2UWmJ9uGUtK57BWwRj3BjDwFlVDMudcwEvXFIRhzlwmcIECscLzA1Qx1IuqKE5knn80oF37gxF6uX4stJ8ldI0VdX5mKQDR5qaIa0gUiEq+Z5de7fQvwzHFSxqUKhLIskzh88YmVNB/WOEl9Iar6kKuGIRUovQ0TU5HyEdNiVX5GxL5uyCZ7QON7VMRGO5W9GQWlNsHQJkCJut4HAZM5MED00QyuXRY0y/lpXxxmmjU57n+2O4TVPVpXdynCxbs1nBjEhYSGMsH/wDLa49d74zxEyJxOTi6vFkcuISUNECvzDRBRTFJD+Ze769kFlzt00m7qwXLW8h6rdxCimyJEcGQYDMncPzIXHiY4d5ed3V/PXQHA92Umtqgn38+LdnaTcofPcrDf+Qd8e1Gx74pw== sam.kuonssp@gmail.com"
  ],
